@@ -14,7 +14,7 @@
 
     // --- 설정 ---
     const TARGET_HOUR = 21; // 목표 시간 (오후 9시)
-    const TARGET_MINUTE = 10; // 목표 분 (10분)
+    const TARGET_MINUTE = 05; // 목표 분 (10분)
     const BUTTON_SELECTOR = 'button.css-19qv2eb'; // 클릭할 버튼 선택자 (퇴실)
     const CHECK_INTERVAL = 30000; // 30초마다 시간 확인
 
